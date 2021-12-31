@@ -5,7 +5,6 @@
     "keywords":    ["snappy", "pdf", "knplabs", "knp", "bundle"],
     "homepage":    "http://github.com/KnpLabs/KnpSnappyBundle",
     "license":     "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "KnpLabs Team",
