@@ -18,7 +18,7 @@
     "require": {
         "php":                      "^7.4|^8.0",
         "symfony/framework-bundle": "^4.4|^5.1|^6.0",
-        "knplabs/knp-snappy":       "dev-master/logger-interface-issue"
+        "knplabs/knp-snappy":       "dev-fix/logger-interface-issue"
     },
     "autoload": {
         "psr-4": {
